@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 CHOICE = 0
 PLAY = 1
-CANDIES = 121
+CANDIES = 1021
 CANDIES_LIMIT = 28
 active_player = ""
 players = []
